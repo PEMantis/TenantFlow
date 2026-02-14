@@ -1,0 +1,11 @@
+/home/perry-davis/dev/TenantFlow/TenantFlow.Domain/bin/Debug/net9.0/TenantFlow.Domain.deps.json
+/home/perry-davis/dev/TenantFlow/TenantFlow.Domain/bin/Debug/net9.0/TenantFlow.Domain.dll
+/home/perry-davis/dev/TenantFlow/TenantFlow.Domain/bin/Debug/net9.0/TenantFlow.Domain.pdb
+/home/perry-davis/dev/TenantFlow/TenantFlow.Domain/obj/Debug/net9.0/TenantFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/perry-davis/dev/TenantFlow/TenantFlow.Domain/obj/Debug/net9.0/TenantFlow.Domain.AssemblyInfoInputs.cache
+/home/perry-davis/dev/TenantFlow/TenantFlow.Domain/obj/Debug/net9.0/TenantFlow.Domain.AssemblyInfo.cs
+/home/perry-davis/dev/TenantFlow/TenantFlow.Domain/obj/Debug/net9.0/TenantFlow.Domain.csproj.CoreCompileInputs.cache
+/home/perry-davis/dev/TenantFlow/TenantFlow.Domain/obj/Debug/net9.0/TenantFlow.Domain.dll
+/home/perry-davis/dev/TenantFlow/TenantFlow.Domain/obj/Debug/net9.0/refint/TenantFlow.Domain.dll
+/home/perry-davis/dev/TenantFlow/TenantFlow.Domain/obj/Debug/net9.0/TenantFlow.Domain.pdb
+/home/perry-davis/dev/TenantFlow/TenantFlow.Domain/obj/Debug/net9.0/ref/TenantFlow.Domain.dll
